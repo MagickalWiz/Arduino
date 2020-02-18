@@ -30,7 +30,7 @@ void loop() {
   
   if (distance < 15){
     setColor(255, 0, 0);  // red
-    Serial.println("<10");
+    //Serial.println("<10");
   }
 
 
